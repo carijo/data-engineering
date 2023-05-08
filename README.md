@@ -2,8 +2,8 @@
 
 To solve this challenge I chose to develop the solution in GCP.
 
-Database: Google BigQuery
-SQL Console: Google BigQuery
-BI - Visual Report: Looker Studio
-ETL tool: Dataproc
-Data Transformation tool: Dataform
+Database: Google BigQuery <br> 
+SQL Console: Google BigQuery <br> 
+BI - Visual Report: Looker Studio <br> 
+ETL tool: Dataproc <br> 
+Data Transformation tool: Dataform <br> 
